@@ -35,9 +35,11 @@ This folder takes information from the weather database and uses the Google Maps
 
 Using the Google Directions API, a sample itinerary was created that shows the route between four cities in the United States.
 
-![pic2.png](/vacation_itinerary/pic2.png)<br/>
+
 ![pic1.PNG](/vacation_itinerary/pic1.PNG)<br/>
+
+
 ![pic4.PNG](/vacation_itinerary/pic4.PNG)<br/>
 
-
+![pic2.png](/vacation_itinerary/pic2.png)<br/>
 
