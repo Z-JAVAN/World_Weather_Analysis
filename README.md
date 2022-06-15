@@ -29,3 +29,15 @@ Current Weather description
 This folder takes information from the weather database and uses the Google Maps API to map different travel destinations with hotel in each location. Based on traveler’s weather preferences, travelers can identify potential travel destinations and nearby hotels and show that with pop-up markers on a marker layer-map.
 
 ![pic.png](/Vacation_Search/pic.png)<br/>
+
+
+### Vacation Itinerary:
+
+Using the Google Directions API, a sample itinerary was created that shows the route between four cities in the United States.
+
+![pic2.png](/vacation_itinerary/pic2.png)<br/>
+![pic3.png](/vacation_itinerary/pic3.png)<br/>
+![pic4.PNG](/vacation_itinerary/pic4.PNG)<br/>
+
+
+
