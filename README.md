@@ -35,11 +35,10 @@ This folder takes information from the weather database and uses the Google Maps
 
 Using the Google Directions API, a sample itinerary was created that shows the route between four cities in the United States.
 
-![pic1.PNG](/vacation_itinerary/pic1.PNG)<br/>
-
+![pic2.png](/vacation_itinerary/pic2.png)<br/>
 
 ![pic4.PNG](/vacation_itinerary/pic4.PNG)<br/>
 
-![pic2.png](/vacation_itinerary/pic2.png)<br/>
+#### Summary :
 
-<br/>
+finally, In short, weather maps are one of the most important tools for companies large and small, and knowing how to use them properly and how to analyze data can be very helpful. In fact, using weather maps correctly can help many people save time, find long and short distances and earn money and so on. This tool is one of the most effective tools today and we see that individuals and companies large and small use it regularly. So knowing and analyzing it can be very helpful
