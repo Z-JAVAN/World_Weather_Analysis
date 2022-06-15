@@ -47,4 +47,4 @@ Using the Google Directions API, a sample itinerary was created that shows the r
 
 #### Summary:
 
-finally, In short, weather maps are one of the most important tools for companies large and small, and knowing how to use them properly and how to analyze data can be very helpful. In fact, using weather maps correctly can help many people save time, find long and short distances and earn money and so on. This tool is one of the most effective tools today and we see that individuals and companies large and small use it regularly. So knowing and analyzing it can be very helpful
+finally,In short, weather maps are one of the most important tools for companies large and small, and knowing how to use them properly and how to analyze data can be very helpful. In fact, using weather maps correctly can help many people save time, find long and short distances and earn money and so on. This tool is one of the most effective tools today and we see that individuals and companies large and small use it regularly. So knowing and analyzing it can be very helpful
